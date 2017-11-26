@@ -1,4 +1,4 @@
 .idea
 *iml
-*/target
-./Common/src
+*/target/
+Common/src/
